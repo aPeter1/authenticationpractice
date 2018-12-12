@@ -1,0 +1,1619 @@
+nohup: ignoring input
+before / Route
+Connected
+(node:16081) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T06:36:36.747Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Access denied!' }
+/ Route else user
+[0mGET / [36m302 [0m15.323 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m7.550 ms - 1360[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.999 ms - -[0m
+[0mGET /main.css [33m404 [0m2.828 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m1.727 ms - 2896[0m
+[0mGET /main.css [33m404 [0m1.005 ms - 199[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.646 ms - -[0m
+/user Route
+[0mGET /user [36m302 [0m1.420 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m2.136 ms - 2827[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.395 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.966 ms - 2113[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.052 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.229 ms - 1819[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.998 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.335 ms - 1819[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.084 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.657 ms - 1826[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.706 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.944 ms - 1830[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.011 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.366 ms - 1832[0m
+[0mGET /stylesheets/style.css [36m304 [0m5.282 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.419 ms - 1837[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.712 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.797 ms - 2196[0m
+[0mGET /stylesheets/style.css [36m304 [0m16.834 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.723 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.915 ms - 1807[0m
+[0mGET /stylesheets/Project_Images/banner%20(2).jpg [33m404 [0m0.858 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m1.481 ms - 2839[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.093 ms - 1467[0m
+[0mGET /stylesheets/Project_Images/banner%20(2).jpg [33m404 [0m0.722 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m2.250 ms - 2584[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.048 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.152 ms - 2568[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.025 ms - -[0m
+[0mPOST /login [36m302 [0m28.140 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.340 ms - 2569[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.052 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m2.024 ms - 784[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.029 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.608 ms - 2824[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.391 ms - -[0m
+[0mGET /stylesheets/Project_Images/banner%20(2).jpg [33m404 [0m1.358 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m1.193 ms - 2767[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.016 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.445 ms - 2699[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.603 ms - 1507[0m
+/login Route
+[0mGET /login [32m200 [0m1.412 ms - 2720[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.062 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.103 ms - 2732[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.996 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.786 ms - 2733[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.012 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.142 ms - 2731[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.060 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.412 ms - 2741[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.024 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.460 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.877 ms - 1543[0m
+/login Route
+[0mGET /login [36m304 [0m0.993 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.600 ms - 1543[0m
+/login Route
+[0mGET /login [32m200 [0m1.305 ms - 2774[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.319 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.624 ms - 2782[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.719 ms - -[0m
+[0mPOST /login [36m302 [0m10.035 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.306 ms - 2789[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.040 ms - -[0m
+login
+{ _id: 5c0c29994c1f403e912287ec,
+  username: 'kpet',
+  hashed_password: '8OTC92xYkW7CWPJGhRvqCR0U1CR6L8PhhpRGGxgW4Ts=',
+  email: 'k.jo@gmail.com',
+  __v: 0,
+  color: 'Blue' }
+[0mPOST /login [36m302 [0m4.903 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T07:11:50.370Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0c29994c1f403e912287ec',
+  username: 'kpet',
+  msg: 'Authenticated as kpet',
+  color: 'Blue' }
+/ Route if user
+[0mGET / [32m200 [0m2.303 ms - 785[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.831 ms - -[0m
+[0mGET /javascripts/my_app.js [32m200 [0m1.995 ms - 400[0m
+[0mGET /user/profile [32m200 [0m3.084 ms - 165[0m
+/logout Route
+[0mGET /logout [36m302 [0m1.727 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.058 ms - 2767[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.023 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.154 ms - 2878[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.322 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.375 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.016 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.935 ms - 2913[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.010 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m5.559 ms - 2904[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.007 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.166 ms - 769[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.012 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.280 ms - 3026[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.960 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.128 ms - 3059[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.035 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.090 ms - 2937[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.043 ms - -[0m
+[0mPOST /login [36m302 [0m2.669 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.367 ms - 2952[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.014 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.149 ms - 2954[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.075 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.168 ms - 2952[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.012 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.103 ms - 2952[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.007 ms - -[0m
+login
+{ _id: 5c0c29994c1f403e912287ec,
+  username: 'kpet',
+  hashed_password: '8OTC92xYkW7CWPJGhRvqCR0U1CR6L8PhhpRGGxgW4Ts=',
+  email: 'k.jo@gmail.com',
+  __v: 0,
+  color: 'Blue' }
+[0mPOST /login [36m302 [0m3.328 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T07:55:43.319Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0c29994c1f403e912287ec',
+  username: 'kpet',
+  msg: 'Authenticated as kpet',
+  color: 'Blue' }
+/ Route if user
+[0mGET / [36m304 [0m1.467 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m2.735 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.664 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.873 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.852 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/logout Route
+[0mGET /logout [36m302 [0m1.875 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.044 ms - 2937[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.026 ms - -[0m
+[0mPOST /login [36m302 [0m2.064 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.083 ms - 2952[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.027 ms - -[0m
+[0mPOST /login [36m302 [0m3.144 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.061 ms - 2959[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.030 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.269 ms - 2946[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.989 ms - -[0m
+login
+{ _id: 5c0c29994c1f403e912287ec,
+  username: 'kpet',
+  hashed_password: '8OTC92xYkW7CWPJGhRvqCR0U1CR6L8PhhpRGGxgW4Ts=',
+  email: 'k.jo@gmail.com',
+  __v: 0,
+  color: 'Blue' }
+[0mPOST /login [36m302 [0m3.888 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T08:10:16.459Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0c29994c1f403e912287ec',
+  username: 'kpet',
+  msg: 'Authenticated as kpet',
+  color: 'Blue' }
+/ Route if user
+[0mGET / [32m200 [0m1.550 ms - 2763[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.034 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.472 ms - -[0m
+/logout Route
+[0mGET /logout [36m302 [0m2.611 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.284 ms - 2924[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.305 ms - -[0m
+login
+{ _id: 5c0c29994c1f403e912287ec,
+  username: 'kpet',
+  hashed_password: '8OTC92xYkW7CWPJGhRvqCR0U1CR6L8PhhpRGGxgW4Ts=',
+  email: 'k.jo@gmail.com',
+  __v: 0,
+  color: 'Blue' }
+[0mPOST /login [36m302 [0m3.257 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T08:12:39.615Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0c29994c1f403e912287ec',
+  username: 'kpet',
+  msg: 'Authenticated as kpet',
+  color: 'Blue' }
+/ Route if user
+[0mGET / [36m304 [0m1.535 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.695 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.821 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m3.848 ms - 3225[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.233 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.865 ms - -[0m
+[0mPOST /user/delete [36m302 [0m5.410 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m2.001 ms - 2924[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.232 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.319 ms - 2723[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.982 ms - -[0m
+[0mGET /index.html [33m404 [0m0.989 ms - 1285[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.011 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.486 ms - 2723[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T08:49:16.041Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m2.774 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.058 ms - 2938[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.967 ms - -[0m
+[0mPOST /login [36m302 [0m2.044 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.053 ms - 2939[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.984 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.057 ms - 2738[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.577 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.091 ms - 2801[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.965 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.715 ms - 2750[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.967 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.129 ms - 2767[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.080 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.384 ms - 2779[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.978 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.413 ms - 2812[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.970 ms - -[0m
+[0mGET /index.html [33m404 [0m0.982 ms - 1285[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.995 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T09:24:21.814Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'User Not Found.' }
+/ Route else user
+[0mGET / [36m302 [0m1.083 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.026 ms - 2938[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.968 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.392 ms - 2924[0m
+/login Route
+[0mGET /login [32m200 [0m1.100 ms - 2924[0m
+/login Route
+[0mGET /login [32m200 [0m1.727 ms - 2924[0m
+/login Route
+[0mGET /login [32m200 [0m1.280 ms - 2924[0m
+/login Route
+[0mGET /login [32m200 [0m3.767 ms - 2924[0m
+/login Route
+[0mGET /login [32m200 [0m1.248 ms - 2924[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.541 ms - 1543[0m
+[0mGET /favicon.ico [33m404 [0m0.791 ms - 1285[0m
+/login Route
+[0mGET /login [36m304 [0m1.146 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.308 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.324 ms - 2811[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.964 ms - -[0m
+/signup Route
+[0mGET /signup [36m304 [0m4.961 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.450 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m14.741 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T09:47:42.405Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as apeter1',
+  user: '5c0c581e04a3563ed12a8a11',
+  username: 'apeter1' }
+/ Route if user
+[0mGET / [32m200 [0m2.086 ms - 2765[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.759 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.136 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.462 ms - 3228[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.566 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.920 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.378 ms - 3325[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.892 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m3.092 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.326 ms - 3378[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.011 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.857 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.237 ms - 3386[0m
+[0mGET /javascripts/my_app.js [36m304 [0m2.797 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.497 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.343 ms - 3409[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.023 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.956 ms - -[0m
+[0mPOST /user/delete [36m302 [0m3.724 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.417 ms - 2924[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.085 ms - -[0m
+[0mPOST /login [36m302 [0m3.304 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m6.247 ms - 2939[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.984 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.969 ms - 2812[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.989 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m4.979 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T10:02:17.106Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpeter',
+  user: '5c0c5b8904a3563ed12a8a12',
+  username: 'kpeter' }
+/ Route if user
+[0mGET / [32m200 [0m4.324 ms - 2820[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.044 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.797 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.602 ms - 3408[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.377 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.043 ms - -[0m
+[0mPOST /user/delete [36m302 [0m4.213 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.067 ms - 2924[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.623 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.113 ms - 2797[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.979 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.689 ms - 2793[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.066 ms - -[0m
+[0mGET /index [33m404 [0m1.712 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.972 ms - -[0m
+[0mGET /index [33m404 [0m1.004 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.020 ms - -[0m
+[0mGET /index [33m404 [0m1.024 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.967 ms - -[0m
+[0mGET /index [33m404 [0m0.920 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.952 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m2.100 ms - 2920[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.964 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m3.035 ms - 2793[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.971 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-08T11:59:18.059Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m1.783 ms - 28[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-09T08:30:49.587Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m1.396 ms - 28[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-09T19:13:56.109Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m2.567 ms - 28[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.163 ms - 2793[0m
+[0mGET /favicon.ico [33m404 [0m0.897 ms - 1281[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-09T14:28:41.680Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Access denied!' }
+/ Route else user
+[0mGET / [36m302 [0m2.225 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.634 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.931 ms - 1543[0m
+[0mGET /favicon.ico [33m404 [0m0.767 ms - 1281[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.154 ms - 2807[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.332 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T15:05:34.067Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m1.383 ms - 28[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T09:40:50.332Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Access denied!' }
+/ Route else user
+[0mGET / [36m302 [0m2.002 ms - 56[0m
+/login Route
+[0mGET /login [36m304 [0m1.433 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.054 ms - -[0m
+/signup Route
+[0mGET /signup [36m304 [0m1.210 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.051 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m2.493 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T15:38:56.718Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpet',
+  user: '5c0f4d7004a3563ed12a8a13',
+  username: 'kpet' }
+/ Route if user
+[0mGET / [32m200 [0m2.651 ms - 2812[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.666 ms - -[0m
+[0mGET /javascripts/my_app.js [32m200 [0m0.585 ms - 400[0m
+/user Route
+[0mGET /user [32m200 [0m1.259 ms - 3402[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.960 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.956 ms - -[0m
+[0mPOST /user/update [36m302 [0m5.265 ms - 54[0m
+/user Route
+[0mGET /user [32m200 [0m1.685 ms - 3394[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.036 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.994 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T15:39:04.380Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'User Updated.',
+  user: '5c0f4d7004a3563ed12a8a13',
+  username: 'kpet',
+  color: 'Blue' }
+/ Route if user
+[0mGET / [32m200 [0m1.811 ms - 2808[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.744 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.019 ms - -[0m
+/logout Route
+[0mGET /logout [36m302 [0m1.662 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.034 ms - 2920[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.929 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m2.101 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.974 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.799 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.959 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.071 ms - 2793[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.001 ms - -[0m
+/signup Route
+[0mGET /signup [36m304 [0m1.147 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.985 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.835 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.509 ms - -[0m
+/signup Route
+[0mGET /signup [36m304 [0m2.458 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.921 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.186 ms - 3073[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.947 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.433 ms - 3368[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.236 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.166 ms - 3478[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.023 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.210 ms - 3593[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.964 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.131 ms - 3601[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.942 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.211 ms - 3602[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.946 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.088 ms - 3602[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.937 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.646 ms - 3613[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.941 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.609 ms - 3546[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.982 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m3.609 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T15:54:20.255Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a28c04a3563ed12a8a14',
+  username: 'richone',
+  msg: 'Authenticated as richone' }
+/ Route if user
+[0mGET / [32m200 [0m9.591 ms - 2818[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.103 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.967 ms - -[0m
+/logout Route
+[0mGET /logout [36m302 [0m2.801 ms - 56[0m
+/login Route
+[0mGET /login [36m304 [0m1.115 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.670 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.998 ms - 2814[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.043 ms - -[0m
+/signup Route
+[0mGET /signup [36m304 [0m1.329 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.140 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m4.096 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T15:58:52.676Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'Authenticated as kpet1' }
+/ Route if user
+[0mGET / [32m200 [0m1.299 ms - 2814[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.000 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.097 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.361 ms - 4085[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.961 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.961 ms - -[0m
+[0mPOST /user/update [36m302 [0m4.914 ms - 54[0m
+/user Route
+[0mGET /user [32m200 [0m1.369 ms - 4076[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.419 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.930 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T15:59:03.927Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [32m200 [0m2.374 ms - 2805[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.941 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.952 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.565 ms - 4085[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.994 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.944 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m1.124 ms - 4081[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.962 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.935 ms - -[0m
+[0mPOST /user/update [36m302 [0m3.274 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m1.569 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.749 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.794 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:00:24.915Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m2.453 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.950 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m1.978 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:00:29.362Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.932 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.933 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.796 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:00:30.911Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.799 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.942 ms - -[0m
+[0mPOST /user/update [36m302 [0m4.225 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m0.864 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.921 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.806 ms - -[0m
+[0mPOST /user/update [36m302 [0m1.940 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m1.558 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.977 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.804 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:07.635Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.560 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.945 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.584 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:45.952Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m2.917 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.003 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m1.628 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:47.114Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.485 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.998 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.820 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:52.450Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.754 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.993 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:52.702Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.543 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.993 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:01:54.453Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.516 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.047 ms - -[0m
+/signup Route
+[0mGET /signup [31m500 [0m0.844 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:02:07.059Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.554 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.966 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.807 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:03:30.184Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.851 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.962 ms - -[0m
+/signup Route
+[0mGET /signup [31m500 [0m0.832 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:03:35.394Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.712 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.925 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:03:35.653Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.586 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.431 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.811 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:05:11.614Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.478 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.945 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:05:11.863Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.576 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.988 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:05:14.484Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.612 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.654 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:05:42.079Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.580 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.951 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:06:30.368Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m0.790 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.014 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.519 ms - 1543[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.354 ms - 2828[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.069 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m3.361 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:06:44.628Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpet2',
+  user: '5c10a57404a3563ed12a8a16',
+  username: 'kpet2' }
+/ Route if user
+[0mGET / [31m500 [0m1.945 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.021 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:06:20.905Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m6.506 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.952 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m1.327 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:08:03.702Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.990 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.974 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.823 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:08:09.409Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.517 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.956 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:08:09.708Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m3.229 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.988 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:09:41.004Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.236 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.988 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.763 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:09:49.556Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m2.160 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.963 ms - -[0m
+/login Route
+[0mGET /login [31m500 [0m0.762 ms - 46[0m
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:170:12)
+    at done (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/var/www/html/creativeAuth/cauth/node_modules/ejs/lib/ejs.js:482:10)
+    at View.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/view.js:135:8)
+    at tryRender (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:640:10)
+    at EventEmitter.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/var/www/html/creativeAuth/cauth/node_modules/express/lib/response.js:1008:7)
+    at /var/www/html/creativeAuth/cauth/app.js:59:7
+    at Layer.handle_error (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:315:13)
+    at /var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/creativeAuth/cauth/node_modules/express/lib/router/index.js:275:10)
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:09:54.316Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m4.789 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.010 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:10:10.463Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m0.761 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.982 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.518 ms - 1543[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.805 ms - 2807[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.936 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m2.582 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:10:21.600Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpet3',
+  user: '5c10a64d04a3563ed12a8a17',
+  username: 'kpet3' }
+/ Route if user
+[0mGET / [31m500 [0m1.451 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.969 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:11:24.975Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m5.830 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.126 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.474 ms - 1543[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.811 ms - 2828[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.979 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+{ MongoError: E11000 duplicate key error collection: auth.users index: username_1 dup key: { : "kpet3" }
+    at Function.create (/var/www/html/creativeAuth/cauth/node_modules/mongodb-core/lib/error.js:43:12)
+    at toError (/var/www/html/creativeAuth/cauth/node_modules/mongodb/lib/utils.js:149:22)
+    at coll.s.topology.insert (/var/www/html/creativeAuth/cauth/node_modules/mongodb/lib/operations/collection_ops.js:844:39)
+    at /var/www/html/creativeAuth/cauth/node_modules/mongodb-core/lib/connection/pool.js:532:18
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  driver: true,
+  name: 'MongoError',
+  index: 0,
+  code: 11000,
+  errmsg: 'E11000 duplicate key error collection: auth.users index: username_1 dup key: { : "kpet3" }' }
+[0mPOST /signup [36m302 [0m8.431 ms - 58[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.994 ms - 2828[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.901 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m6.058 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:11:42.584Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpet4',
+  user: '5c10a69e04a3563ed12a8a19',
+  username: 'kpet4' }
+/ Route if user
+[0mGET / [32m200 [0m1.550 ms - 2819[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.929 ms - -[0m
+[0mGET /javascripts/my_app.js [32m200 [0m0.445 ms - 400[0m
+/user Route
+[0mGET /user [32m200 [0m1.494 ms - 4248[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.953 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.938 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:09:54.580Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.914 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.954 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:13:14.139Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m0.744 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.084 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.470 ms - 1543[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.663 ms - 2828[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.932 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m8.389 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:13:21.771Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as kpet5',
+  user: '5c10a70104a3563ed12a8a1a',
+  username: 'kpet5' }
+/ Route if user
+[0mGET / [31m500 [0m1.787 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.925 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:14:40.839Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m0.790 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.967 ms - 2934[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.451 ms - 1543[0m
+login
+{ _id: 5c10a70104a3563ed12a8a1a,
+  username: 'kpet5',
+  hashed_password: '8OTC92xYkW7CWPJGhRvqCR0U1CR6L8PhhpRGGxgW4Ts=',
+  email: 'k.jo@gmail.com',
+  __v: 0 }
+[0mPOST /login [36m302 [0m3.943 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:14:46.577Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a70104a3563ed12a8a1a',
+  username: 'kpet5',
+  msg: 'Authenticated as kpet5' }
+/ Route if user
+[0mGET / [31m500 [0m1.536 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.960 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:13:03.834Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [32m200 [0m1.647 ms - 2810[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.007 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.862 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:18:01.802Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m1.528 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.913 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:20:57.590Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [32m200 [0m1.670 ms - 2810[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.958 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.939 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:21:38.117Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [36m304 [0m3.175 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.581 ms - 1543[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.812 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:24:33.478Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [31m500 [0m2.662 ms - 1281[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.958 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:25:06.357Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [32m200 [0m1.294 ms - 2816[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.708 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.963 ms - -[0m
+/user Route
+[0mGET /user [32m200 [0m5.859 ms - 4066[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.973 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.931 ms - -[0m
+[0mPOST /user/update [36m302 [0m2.683 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m1.178 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.867 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.901 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T16:26:38.027Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10a39c04a3563ed12a8a15',
+  username: 'kpet1',
+  msg: 'User Updated.',
+  color: 'I am rich and want to make you rich' }
+/ Route if user
+[0mGET / [32m200 [0m1.778 ms - 2851[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.967 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.955 ms - -[0m

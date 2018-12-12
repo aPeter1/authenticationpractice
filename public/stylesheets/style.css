@@ -1,0 +1,112 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.form-container{
+  width:30%;
+  
+}
+
+.jumbotron{
+  text-align:center;
+  
+}
+
+.main-container {
+    padding-top: 50px;
+}
+
+.index-intro {
+    width:100%;
+    background-color: #f3f3f3;
+}
+
+.index-intro .container {
+    width:80%;
+}
+
+.index-intro .jumbotron {
+    padding: 100px 60px;
+    margin: 0px;
+    height:600px;
+    width:100%;
+    background-image: url('Project_Images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.index-intro .jumbotron h1 {
+    font-size:50px;
+}
+
+.index-experience {
+    width:100%;
+    background-color: #f3f3f3;
+}
+
+.index-experience .jumbotron {
+    background-color:#fff;
+}
+
+
+.index-experience .container-fluid {
+    width:80%;
+    background-color:#fff;
+}
+
+.index-projects {
+    width:100%;
+    background-color: #f3f3f3;
+}
+
+.index-projects .jumbotron {
+    background-color:#f3f3f3;
+}
+
+
+.index-projects .container-fluid {
+    width:80%;
+    background-color:#f3f3f3;
+}
+
+.index-quote .container-fluid {
+    width:80%;
+}
+
+.page-banner .jumbotron {
+    background-image: url('Project_Images/banner (2).jpg');
+    background-size:cover;
+    height:100px;
+}
+
+.page-title .jumbotron {
+    height:250px;
+}
+
+.page-title .container{
+    padding-top:0px;
+    margin:0;
+}
+
+.project-cards {
+    width:80%;
+    margin:auto;
+}
+
+.job-container .jumbotron {
+    background-color:#fff;
+}
+
+.contact-section {
+    width:80%;
+    margin:auto;
+}
+
+.project-cards {
+    padding-bottom:30px;
+}
